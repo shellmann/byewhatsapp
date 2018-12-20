@@ -3,7 +3,7 @@
 ## Ab 2019 sage ich Tschüss zu WhatsApp.
 
 Ich habe mich ja bereits vor Jahren von Facebook verabschiedet und bin WhatsApp treu geblieben.
-Seitdem Facebook WhatsApp gekauft hat, haben mittlerweile beide Gründer das Unternehmen verlassen, weil es Unstimmigkeiten bei der Ausrichtung von WhatsApp gab [1].
+Seitdem Facebook WhatsApp gekauft hat, haben mittlerweile beide Gründer das Unternehmen verlassen, weil es Unstimmigkeiten bei der Ausrichtung von WhatsApp gab [[1]](#1).
 
 Seit Jahren schon geht es bei Facebook mit dem Datenschutz immer weiter bergab [2, 3].
 
@@ -24,9 +24,9 @@ Deswegen bin ich mir auch nicht zu schade, um einmalig etwas Geld für einen ver
 Ich würde mich sehr freuen, wenn ich euch demnächst bei Threema (oder auch Signal) begrüßen kann.
 Wenn ihr Unterstützung bei der Einrichtung oder beim Erstellen der Gruppenchats benötigt, stehe ich euch gerne zur Verfügung.
 
-## Quellen
+#### Quellen
 
-[1] https://www.zeit.de/wirtschaft/unternehmen/2018-05/jan-koum-whatsapp-facebook-datenschutz
+[1] <a name="1">https://www.zeit.de/wirtschaft/unternehmen/2018-05/jan-koum-whatsapp-facebook-datenschutz</a>
 
 [2] https://www.sueddeutsche.de/digital/datenmissbrauch-was-ist-eigentlich-gerade-bei-facebook-los-1.3932349
 
@@ -38,4 +38,4 @@ Wenn ihr Unterstützung bei der Einrichtung oder beim Erstellen der Gruppenchats
 
 [6] https://www.golem.de/news/signal-foundation-whatsapp-gruender-investiert-50-millionen-us-dollar-in-signal-1802-132911.html
 
-[7] https://threema.ch/de, iOS: 3,49 €, Android: 2,99 €
+[7] https://threema.ch/de, [iOS](https://itunes.apple.com/de/app/threema/id578665578?mt=8&uo=4&at=10lJMu): 3,49 €, [Android](https://play.google.com/store/apps/details?id=ch.threema.app): 2,99 €
