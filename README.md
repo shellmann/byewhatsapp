@@ -3,17 +3,17 @@
 ## Ab 2019 sage ich Tschüss zu WhatsApp.
 
 Ich habe mich ja bereits vor Jahren von Facebook verabschiedet und bin WhatsApp treu geblieben.
-Seitdem Facebook WhatsApp gekauft hat, haben mittlerweile beide Gründer das Unternehmen verlassen, weil es Unstimmigkeiten bei der Ausrichtung von WhatsApp gab [[1]](#1).
+Seitdem Facebook WhatsApp gekauft hat, haben mittlerweile beide Gründer das Unternehmen verlassen, weil es Unstimmigkeiten bei der Ausrichtung von WhatsApp gab [[1](#1)].
 
 Seit Jahren schon geht es bei Facebook mit dem Datenschutz immer weiter bergab [[2](#2), [3](#3)].
 
-Zusätzlich führt WhatsApp ab 2019 Werbung ein [[4]](#4), was mich letztendlich dazu bewogen hat, mich nun von diesem Messenger komplett zu verabschieden.
+Zusätzlich führt WhatsApp ab 2019 Werbung ein [[4](#4)], was mich letztendlich dazu bewogen hat, mich nun von diesem Messenger komplett zu verabschieden.
 
-Es gibt weiterhin gute und kostenlose Messenger [[5]](#5), wie z. B. Signal, der übrigens von einem ehemaligen WhatsApp-Gründer mitfinanziert wird [[6]](#6).
+Es gibt weiterhin gute und kostenlose Messenger [[5](#5)], wie z. B. Signal, der übrigens von einem ehemaligen WhatsApp-Gründer mitfinanziert wird [[6](#6)].
 
 Natürlich gibt es in der heutigen Welt nicht vieles kostenfrei. Genau deswegen führt WhatsApp jetzt auch Werbung ein, um die immensen Kosten, die durch den Betrieb verursacht werden, wieder aufzufangen.
 Aber ganz ehrlich, Facebook und WhatsApp sind einfach nicht mehr vertrauenswürdig.
-Deswegen bin ich mir auch nicht zu schade, um einmalig etwas Geld für einen vertrauensvollen und guten Messenger auszugeben. Mein persönlicher Favorit ist **Threema** [[7]](#7).
+Deswegen bin ich mir auch nicht zu schade, um einmalig etwas Geld für einen vertrauensvollen und guten Messenger auszugeben. Mein persönlicher Favorit ist **Threema** [[7](#7)].
 
 > ### Meine Empfehlung: Threema
 > 
